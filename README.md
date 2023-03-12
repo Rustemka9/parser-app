@@ -10,7 +10,7 @@ Created with React. For launch the application:
 
 Project structure:
 
-1. src
+1. src:
    - Components:
      a) Person.js
      b) Persons.js
