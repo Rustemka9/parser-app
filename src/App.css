@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+th,
+td {
+  padding: 10px;
+  min-width: 200px;
+  border: 1px solid black;
+}
+
+.email {
+  min-width: 300px;
+}
+
+.id {
+  min-width: 50px;
+}
