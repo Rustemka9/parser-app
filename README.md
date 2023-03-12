@@ -14,7 +14,7 @@ Project structure:
    - Components:
      a) Person.js
      b) Persons.js
-   - data:
+   - Data:
      a) persons_1.json
      b) persons_2.json
    - App.css
