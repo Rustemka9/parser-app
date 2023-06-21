@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parser-app/static/css/main.fab7ffae.css",
+    "main.js": "/parser-app/static/js/main.264224f3.js",
+    "index.html": "/parser-app/index.html",
+    "main.fab7ffae.css.map": "/parser-app/static/css/main.fab7ffae.css.map",
+    "main.264224f3.js.map": "/parser-app/static/js/main.264224f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab7ffae.css",
+    "static/js/main.264224f3.js"
+  ]
+}
